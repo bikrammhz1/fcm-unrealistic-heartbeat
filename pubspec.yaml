@@ -1,6 +1,7 @@
 name: fcm_unrealistic_heartbeat
 description: A new flutter plugin project.
 version: 0.0.1
+author: Rbmhz
 homepage: https://github.com/bikrammhz1/fcm-unrealistic-heartbeat
 
 environment:

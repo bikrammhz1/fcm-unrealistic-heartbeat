@@ -54,12 +54,10 @@ public class FcmUnrealisticHeartbeatPlugin implements FlutterPlugin, MethodCallH
 
     @Override
     public void onDetachedFromActivity() {
-        ///TODO("Not yet implemented");
     }
 
     @Override
     public void onReattachedToActivityForConfigChanges(ActivityPluginBinding binding) {
-        ///TODO("Not yet implemented");
     }
 
     @Override
@@ -69,6 +67,5 @@ public class FcmUnrealisticHeartbeatPlugin implements FlutterPlugin, MethodCallH
 
     @Override
     public void onDetachedFromActivityForConfigChanges() {
-        ///TODO("Not yet implemented");
     }
 }
